@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F9F53D91AE016A800D70862 /* eventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9F53D81AE016A800D70862 /* eventTableViewCell.swift */; };
+		3FD929151ADEC26500673958 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD929141ADEC26500673958 /* LoginViewController.swift */; };
+		3FD929171ADEC4F600673958 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD929161ADEC4F600673958 /* RegisterViewController.swift */; };
+		3FD929191ADEC7B600673958 /* EventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD929181ADEC7B600673958 /* EventsViewController.swift */; };
+		3FFEFB681AD2E98000974FA9 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB621AD2E96F00974FA9 /* Bolts.framework */; };
+		3FFEFB691AD2E98000974FA9 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB631AD2E96F00974FA9 /* Parse.framework */; };
+		3FFEFB6A1AD2E98000974FA9 /* ParseCrashReporting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB641AD2E96F00974FA9 /* ParseCrashReporting.framework */; };
+		3FFEFB6B1AD2E98000974FA9 /* ParseFacebookUtils.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB651AD2E96F00974FA9 /* ParseFacebookUtils.framework */; };
+		3FFEFB6C1AD2E98000974FA9 /* ParseFacebookUtilsV4.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB661AD2E96F00974FA9 /* ParseFacebookUtilsV4.framework */; };
+		3FFEFB6D1AD2E98000974FA9 /* ParseUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB671AD2E96F00974FA9 /* ParseUI.framework */; };
+		3FFEFB6F1AD2E9F300974FA9 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB6E1AD2E9F300974FA9 /* AudioToolbox.framework */; };
+		3FFEFB711AD2E9FB00974FA9 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB701AD2E9FB00974FA9 /* CFNetwork.framework */; };
+		3FFEFB731AD2EA0400974FA9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB721AD2EA0400974FA9 /* CoreGraphics.framework */; };
+		3FFEFB751AD2EA0D00974FA9 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB741AD2EA0D00974FA9 /* CoreLocation.framework */; };
+		3FFEFB771AD2EA1600974FA9 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB761AD2EA1600974FA9 /* MobileCoreServices.framework */; };
+		3FFEFB791AD2EA1C00974FA9 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB781AD2EA1C00974FA9 /* QuartzCore.framework */; };
+		3FFEFB7B1AD2EA2400974FA9 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB7A1AD2EA2400974FA9 /* Security.framework */; };
+		3FFEFB7D1AD2EA2B00974FA9 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB7C1AD2EA2B00974FA9 /* StoreKit.framework */; };
+		3FFEFB7F1AD2EA3500974FA9 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB7E1AD2EA3500974FA9 /* SystemConfiguration.framework */; };
+		3FFEFB811AD2EA3E00974FA9 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB801AD2EA3E00974FA9 /* libz.dylib */; };
+		3FFEFB831AD2EA4900974FA9 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FFEFB821AD2EA4900974FA9 /* libsqlite3.dylib */; };
 		B19268D21A4072D80030A1E6 /* MMAlertManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19268D11A4072D80030A1E6 /* MMAlertManager.swift */; };
 		B19268D41A40734B0030A1E6 /* MMExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19268D31A40734B0030A1E6 /* MMExtensions.swift */; };
 		B19268D71A4073800030A1E6 /* MMkConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19268D61A4073800030A1E6 /* MMkConstants.swift */; };
@@ -33,6 +54,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F9F53D81AE016A800D70862 /* eventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = eventTableViewCell.swift; sourceTree = "<group>"; };
+		3FD929141ADEC26500673958 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		3FD929161ADEC4F600673958 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		3FD929181ADEC7B600673958 /* EventsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsViewController.swift; sourceTree = "<group>"; };
+		3FFEFB621AD2E96F00974FA9 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		3FFEFB631AD2E96F00974FA9 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		3FFEFB641AD2E96F00974FA9 /* ParseCrashReporting.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseCrashReporting.framework; sourceTree = "<group>"; };
+		3FFEFB651AD2E96F00974FA9 /* ParseFacebookUtils.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseFacebookUtils.framework; sourceTree = "<group>"; };
+		3FFEFB661AD2E96F00974FA9 /* ParseFacebookUtilsV4.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseFacebookUtilsV4.framework; sourceTree = "<group>"; };
+		3FFEFB671AD2E96F00974FA9 /* ParseUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseUI.framework; sourceTree = "<group>"; };
+		3FFEFB6E1AD2E9F300974FA9 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		3FFEFB701AD2E9FB00974FA9 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		3FFEFB721AD2EA0400974FA9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3FFEFB741AD2EA0D00974FA9 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		3FFEFB761AD2EA1600974FA9 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		3FFEFB781AD2EA1C00974FA9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3FFEFB7A1AD2EA2400974FA9 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		3FFEFB7C1AD2EA2B00974FA9 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		3FFEFB7E1AD2EA3500974FA9 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3FFEFB801AD2EA3E00974FA9 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		3FFEFB821AD2EA4900974FA9 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		B19268D11A4072D80030A1E6 /* MMAlertManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MMAlertManager.swift; sourceTree = "<group>"; };
 		B19268D31A40734B0030A1E6 /* MMExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MMExtensions.swift; sourceTree = "<group>"; };
 		B19268D61A4073800030A1E6 /* MMkConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MMkConstants.swift; sourceTree = "<group>"; };
@@ -50,6 +92,7 @@
 		B19673FC1A407035007022AD /* EventsAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EventsAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B19674011A407035007022AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B19674021A407035007022AD /* EventsAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsAppTests.swift; sourceTree = "<group>"; };
+		B19CF07A1A4082D900925FAF /* EventsApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EventsApp-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +100,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FFEFB831AD2EA4900974FA9 /* libsqlite3.dylib in Frameworks */,
+				3FFEFB811AD2EA3E00974FA9 /* libz.dylib in Frameworks */,
+				3FFEFB7F1AD2EA3500974FA9 /* SystemConfiguration.framework in Frameworks */,
+				3FFEFB7D1AD2EA2B00974FA9 /* StoreKit.framework in Frameworks */,
+				3FFEFB7B1AD2EA2400974FA9 /* Security.framework in Frameworks */,
+				3FFEFB791AD2EA1C00974FA9 /* QuartzCore.framework in Frameworks */,
+				3FFEFB771AD2EA1600974FA9 /* MobileCoreServices.framework in Frameworks */,
+				3FFEFB751AD2EA0D00974FA9 /* CoreLocation.framework in Frameworks */,
+				3FFEFB731AD2EA0400974FA9 /* CoreGraphics.framework in Frameworks */,
+				3FFEFB711AD2E9FB00974FA9 /* CFNetwork.framework in Frameworks */,
+				3FFEFB6F1AD2E9F300974FA9 /* AudioToolbox.framework in Frameworks */,
+				3FFEFB681AD2E98000974FA9 /* Bolts.framework in Frameworks */,
+				3FFEFB691AD2E98000974FA9 /* Parse.framework in Frameworks */,
+				3FFEFB6A1AD2E98000974FA9 /* ParseCrashReporting.framework in Frameworks */,
+				3FFEFB6B1AD2E98000974FA9 /* ParseFacebookUtils.framework in Frameworks */,
+				3FFEFB6C1AD2E98000974FA9 /* ParseFacebookUtilsV4.framework in Frameworks */,
+				3FFEFB6D1AD2E98000974FA9 /* ParseUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +130,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3FFEFB611AD2E96F00974FA9 /* parse-library-1.7.1 */ = {
+			isa = PBXGroup;
+			children = (
+				3FFEFB621AD2E96F00974FA9 /* Bolts.framework */,
+				3FFEFB631AD2E96F00974FA9 /* Parse.framework */,
+				3FFEFB641AD2E96F00974FA9 /* ParseCrashReporting.framework */,
+				3FFEFB651AD2E96F00974FA9 /* ParseFacebookUtils.framework */,
+				3FFEFB661AD2E96F00974FA9 /* ParseFacebookUtilsV4.framework */,
+				3FFEFB671AD2E96F00974FA9 /* ParseUI.framework */,
+			);
+			name = "parse-library-1.7.1";
+			path = "../parse-library-1.7.1";
+			sourceTree = "<group>";
+		};
+		3FFEFB841AD2EB2600974FA9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3FFEFB821AD2EA4900974FA9 /* libsqlite3.dylib */,
+				3FFEFB801AD2EA3E00974FA9 /* libz.dylib */,
+				3FFEFB7E1AD2EA3500974FA9 /* SystemConfiguration.framework */,
+				3FFEFB7C1AD2EA2B00974FA9 /* StoreKit.framework */,
+				3FFEFB7A1AD2EA2400974FA9 /* Security.framework */,
+				3FFEFB781AD2EA1C00974FA9 /* QuartzCore.framework */,
+				3FFEFB761AD2EA1600974FA9 /* MobileCoreServices.framework */,
+				3FFEFB741AD2EA0D00974FA9 /* CoreLocation.framework */,
+				3FFEFB721AD2EA0400974FA9 /* CoreGraphics.framework */,
+				3FFEFB701AD2E9FB00974FA9 /* CFNetwork.framework */,
+				3FFEFB6E1AD2E9F300974FA9 /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		B19268D51A4073670030A1E6 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
 				B19268D11A4072D80030A1E6 /* MMAlertManager.swift */,
 				B19268D31A40734B0030A1E6 /* MMExtensions.swift */,
 				B19268D61A4073800030A1E6 /* MMkConstants.swift */,
+				B19CF07A1A4082D900925FAF /* EventsApp-Bridging-Header.h */,
 			);
 			name = Utilities;
 			sourceTree = "<group>";
@@ -95,6 +188,8 @@
 		B19673DE1A407035007022AD = {
 			isa = PBXGroup;
 			children = (
+				3FFEFB841AD2EB2600974FA9 /* Frameworks */,
+				3FFEFB611AD2E96F00974FA9 /* parse-library-1.7.1 */,
 				B19673E91A407035007022AD /* EventsApp */,
 				B19673FF1A407035007022AD /* EventsAppTests */,
 				B19673E81A407035007022AD /* Products */,
@@ -117,6 +212,10 @@
 				B19268E21A4075990030A1E6 /* Model Data */,
 				B19268D51A4073670030A1E6 /* Utilities */,
 				B19673F01A407035007022AD /* Main.storyboard */,
+				3F9F53D81AE016A800D70862 /* eventTableViewCell.swift */,
+				3FD929181ADEC7B600673958 /* EventsViewController.swift */,
+				3FD929161ADEC4F600673958 /* RegisterViewController.swift */,
+				3FD929141ADEC26500673958 /* LoginViewController.swift */,
 				B19673F31A407035007022AD /* Images.xcassets */,
 				B19673F51A407035007022AD /* LaunchScreen.xib */,
 				B19673EA1A407035007022AD /* Supporting Files */,
@@ -250,13 +349,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				B19268DF1A4074250030A1E6 /* Photo.swift in Sources */,
+				3FD929171ADEC4F600673958 /* RegisterViewController.swift in Sources */,
 				B19268E11A4074440030A1E6 /* UniversalProfile.swift in Sources */,
 				B19268D21A4072D80030A1E6 /* MMAlertManager.swift in Sources */,
 				B19268DB1A4073D10030A1E6 /* Profile.swift in Sources */,
+				3FD929191ADEC7B600673958 /* EventsViewController.swift in Sources */,
 				B19673ED1A407035007022AD /* AppDelegate.swift in Sources */,
 				B19268D41A40734B0030A1E6 /* MMExtensions.swift in Sources */,
 				B19268D91A4073B50030A1E6 /* User.swift in Sources */,
+				3F9F53D91AE016A800D70862 /* eventTableViewCell.swift in Sources */,
 				B19268DD1A4073F20030A1E6 /* Event.swift in Sources */,
+				3FD929151ADEC26500673958 /* LoginViewController.swift in Sources */,
 				B19268D71A4073800030A1E6 /* MMkConstants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -380,9 +483,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/student/Desktop/parse-library-1.7.1",
+				);
 				INFOPLIST_FILE = EventsApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "EventsApp/EventsApp-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -390,9 +500,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/student/Desktop/parse-library-1.7.1",
+				);
 				INFOPLIST_FILE = EventsApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "EventsApp/EventsApp-Bridging-Header.h";
 			};
 			name = Release;
 		};
